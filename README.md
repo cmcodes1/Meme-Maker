@@ -1,6 +1,6 @@
 <h1 align="center"> :smile: Meme Gen </h1>
 <p align="center">
- Do you like memes? Who doesn't? Use this webapp to select a meme and insert a caption. Now, you're a memer too :D <br/> <br/>
+ Do you like memes? Who doesn't? Use this webapp to select a meme and insert a caption. Now, you can be a memer too :D <br/> <br/>
   <img src="https://img.shields.io/badge/Platform-Web-brightgreen.svg" />
   <img src="https://img.shields.io/badge/Version-2.1.1-green.svg" />
   <img src="https://img.shields.io/badge/App_Size-472_KB-orange.svg" />
