@@ -10,6 +10,8 @@
 	<img src="https://github.com/cmcodes1/Meme-Maker/blob/master/preview.JPG" />
 </p>
 
+<h1 align="center"><a href="https://cmcodes-mememaker.netlify.app/">CLICK HERE TO VISIT</a></h1>
+
 <h3> Browser Compatibility </h3>
 <table>
   <tr align="center">
