@@ -6,7 +6,7 @@
 	<img src="https://img.shields.io/badge/App_Size-472_KB-orange.svg" alt="App_Size-472_KB"/>
 	<img src="https://img.shields.io/badge/Editor-VS_Code-0078d7.svg" alt="Editor-VS_Code"/>
 	<img src="https://img.shields.io/badge/Library-React-61dbfb.svg" alt="Library-React"/>
-	<img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" alt="Language-HTML,_CSS,_JS"/> <br/><br/>
+	<img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" alt="Language-HTML,_CSS,_JS"/> <br/><br/><br/>
 	<img src="https://github.com/cmcodes1/Meme-Maker/blob/master/preview.JPG" />
 </p>
 
