@@ -7,7 +7,7 @@
 	<img src="https://img.shields.io/badge/Editor-VS_Code-0078d7.svg" alt="Editor-VS_Code"/>
 	<img src="https://img.shields.io/badge/Library-React-61dbfb.svg" alt="Library-React"/>
 	<img src="https://img.shields.io/badge/Language-HTML,_CSS,_JS-red.svg" alt="Language-HTML,_CSS,_JS"/> <br/><br/><br/>
-	<img src="https://github.com/cmcodes1/Meme-Maker/blob/master/preview.png width="540px" height="771px" />
+	<img src="https://github.com/cmcodes1/Meme-Maker/blob/master/preview.jpg" />
 </p>
 
 <h1 align="center"><a href="https://cmcodes-mememaker.netlify.app/">CLICK HERE TO VISIT</a></h1>
