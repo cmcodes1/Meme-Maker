@@ -1,4 +1,4 @@
-<h1 align="center">😄 MEME MAKER</h1>
+<h1 align="center">:joy: MEME MAKER</h1>
 <p align="center">
 	Do you like memes? Who doesn't? <br/> Use this webapp to select a meme and insert a caption. Now, you can be a memer too :D <br/><br/>
 	<img src="https://img.shields.io/badge/Platform-Web-brightgreen.svg" alt="Platform-Web"/>
